@@ -1,0 +1,126 @@
+Skip to content
+ 
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@chenshuaijun1234 
+ Watch 0
+ Star 0  Fork 0 chenshuaijun1234/-
+ Code  Issues 0  Pull requests 0  Projects 0  Wiki  Insights  Settings
+Branch: master 
+-/课程表
+Find file Copy path
+@chenshuaijun1234 chenshuaijun1234 Create 课程表
+8f22bbb 2 days ago
+1 contributor
+93 lines (83 sloc)  3.45 KB
+RawBlameHistory
+    
+<html>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<head>
+    <title>课程表</title>
+</head>
+<center>
+    <h1 align="center"><b><em>
+                <caption>课程表</caption>
+            </em></b></h1>
+
+    <body text="#000000">
+        <table style="color:#FF00FF" width="928" height="395" border="1" background="Hydrangeas.jpg">
+            <tr>
+                <td width="76"> </td>
+                <td width="86" height="50"> </td>
+                <td width="100">周一</td>
+                <td width="100">周二</td>
+                <td width="100">周三</td>
+                <td width="100">周四</td>
+                <td width="100">周五</td>
+                <td width="100">周六</td>
+                <td width="108">周日</td>
+            </tr>
+            <tr>
+                <td rowspan="4">上午</td>
+                <td>1</td>
+                <td rowspan="2">Web应用开发技术（西区第一公共教学楼C411）</td>
+                <td rowspan="2">大学生英语四级（A）(西区第一公共教学楼C221)</td>
+                <td rowspan="2"> </td>
+                <td rowspan="2">数据库原理及应用（A）（西区第一公共教学楼B405）</td>
+                <td rowspan="2">大学英语四级（A）（西区第一公共教学楼C219）</td>
+                <td rowspan="2"> </td>
+                <td rowspan="2"> </td>
+            </tr>
+            <tr>
+
+                <td>2</td>
+            </tr>
+            <tr>
+
+                <td>3</td>
+                <td rowspan="2">毛泽东思想与中国特色社会主义理论体系概论（西区第一公共教学楼A120）</td>
+                <td rowspan="2">管理科学基础（西区第一公共教学楼C411）</td>
+                <td rowspan="2">毛泽东思想与中国特色社会主义理论体系概论（西区第一公共教学楼A120）</td>
+                <td rowspan="2">管理科学基础（西区第一公共教学楼C411）</td>
+                <td rowspan="2"> 运营管理（西区第一公共教学楼B405）</td>
+                <td rowspan="2"></td>
+                <td rowspan="2"> </td>
+            </tr>
+            <tr>
+
+                <td>4</td>
+            </tr>
+            <tr>
+                <td colspan="8" align="center"><b>午休</b></td>
+            </tr>
+            <tr>
+                <td rowspan="4">下午</td>
+                <td>5</td>
+                <td rowspan="2">管理信息系统（西区第一公共教学楼C105）</td>
+                <td rowspan="2"> </td>
+                <td rowspan="2"></td>
+                <td rowspan="2"></td>
+                <td rowspan="2">毛泽东思想与中国特色社会主义理论体系概论（西区第一公共教学楼A120）</td>
+                <td rowspan="2"> </td>
+                <td rowspan="2"> </td>
+            </tr>
+            <tr>
+
+                <td>6</td>
+            </tr>
+            <tr>
+
+                <td>7</td>
+                <td rowspan="2">电子商务（西区第一公共教学楼B303） </td>
+                <td rowspan="2">数据库原理及应用（A）（西区第一公共教学楼B405）</td>
+                <td rowspan="2"></td>
+                <td rowspan="2">会计学（西区第一公共教学楼B101） </td>
+                <td rowspan="2"></td>
+                <td rowspan="2"> </td>
+                <td rowspan="2"> </td>
+            </tr>
+            <tr>
+
+                <td>8</td>
+            </tr>
+        </table>
+</center>
+</body>
+
+</html>
+© 2019 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
